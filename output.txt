@@ -1,0 +1,67 @@
+3GPP 		3rd Generation Partnership Project
+5G		5th Generation
+AGC 		Automatic Gain Control
+AP		Access Point
+CC		Component Carrier
+CCA 		Clear Channel Assessment
+CRS		Cell-specific reference signal
+CSAT 		Carrier-Sensing Adaptive Transmission
+CSI 		Channel-State Information
+CWS 		Contention Window Size
+DFS		Dynamic frequency selection
+DMTC 	Discovery Signal Measurement Timing Configuration
+DRB 		Data Radio Bearer 
+DRS		Discovery reference signal
+E-UTRAN	Evolved UMTS Terrestrial Radio Access Network
+ED		Energy Detection
+EPC		Evolved Packet Core
+FBE		Frame-based Equipment
+GBR		Guaranteed Bit Rate
+HSS		Home Subscriber Server
+ICMP 		Internet Control Message Protocol
+IMS		IP Multimedia System
+IMS 		IP Multimedia Subsystem
+IP		Internet Protocol
+ITU 		International Telecommunication Union
+LAA		Licensed-Assisted Access
+LBE		Load-based Equipment
+LBT		Listen-before-talk
+LTE		Long Term Evolution
+LTE-U		LTE-Unlicensed
+MAC		Medium Access Control
+MCOT 	Maximum Channel Occupancy Time
+MIMO		Multiple-Input Multiple-Output
+MME		Mobility Management Entity
+NAS		Non-access Stratum
+Non-GBR	Non-Guaranteed Bit Rate
+OFDM		Orthogonal Frequency-Division Multiplexing
+P-GW		Packet Data Network Gateway
+PCFICH	Physical Control Format Indicator Channel
+PCRF		Policy Control and Charging Rules Functions
+PCell		Primary Serving Cell
+PDCCH	Physical Downlink Control Channel
+PDCP		Packet Data Convergence Protocol 
+PDN 		Public Data Network
+PDSCH	Physical Downlink Shared Channel
+PHY		Physical Layer
+PSS 		Primary Reference Signal
+QAM		Quadrature Amplitude Modulation
+QCI		QoS Class Identifier
+QoS		Quality of Service
+RF		Radio Frequency
+RLC		Radio Link Control 
+RRC		Radio Resource Control
+RRH		Remote Radio Heads
+RRM 		Radio Resource Management 
+S-GW		Serving Gateway
+SCell		Secondary Serving Cell
+SSS		Secondary Reference Signal
+TAI 		Tracking Area Identity
+TCP 		Transmission Control Protocol 
+TPC		Transmit Power Control
+TXOP		Transmission Opportunity
+U-NII		Unlicensed National Information Infrastructure
+UDP		User Datagram Protocol
+UE		User Equipment
+eCCA		Enhanced Clear Channel Assessment
+eNB		E-UTRAN Node B
